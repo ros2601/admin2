@@ -1,0 +1,157 @@
+body{
+    margin:0;
+}
+.container1{
+    width: 100%;
+    height:80px;
+}
+.container1 table{
+    width:200px;
+}
+.subcontainer1{
+    width:1000px;
+    height:80px;
+    margin: auto;
+}
+.logout{
+    background-color: rgb(204, 211, 213);
+    border: none;
+    color: black;
+    float: right;
+}
+.container2{
+    width: 100%;
+    height:50px;
+    background-color: rgb(0, 90, 117);
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    line-height: 50px;
+}
+.subcontainer2{
+    width:1000px;
+    height:80px;
+    margin: auto;
+}
+
+.container3{
+    width:100%;
+    height:700px;  
+}
+.subcontainer3{
+    width:1000px;
+    height:700px;
+    margin: auto;
+
+}
+
+.left-section{
+    width:200px;
+    height: auto;
+    float: left;
+}
+.left table { 
+   border:1px solid black;
+   border-collapse: collapse;  
+   font-size: 16px;
+   width:170;
+}
+.left table tr td{
+  padding: 4px;
+  border:1px solid black;
+}
+
+.item{
+    font-weight: bold;
+    color: rgb(0, 90, 117);
+    margin: auto;
+}
+.r1{
+    font-size: 12px;
+    color: rgb(74, 68, 68);
+}
+
+.right-section{
+    width:800px;
+    height:auto;
+    float: right;
+}
+.right hr{
+    width:550px;
+    margin-left: 1px;
+}
+
+.add-page{
+    width:800px;
+    height: auto;
+    margin: auto;
+    border:1px solid black;
+}
+.add-page p{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.add-page select{
+    width:185px;
+}
+.add-page textarea{
+    width:185px;
+}
+.content textarea{
+    width:650px;
+    height: 200px;
+} 
+.add-page input{
+    width:185px;
+}
+.add-page hr{
+  width:auto;
+  margin: auto;
+}
+.add-page table{
+    border:1px solid black;
+    margin: auto;
+    width:790px;    
+    height: auto;
+    border-collapse: collapse;
+}
+.l1{
+    text-align:right;
+    width:150px;
+}
+.order input{
+    width: 40px;
+ }
+.add-page table tr{
+    border:1px solid black;
+}
+.add-page select{
+    width:"175px";
+}
+.add-page img{
+    width:650px;
+}
+
+.save_btn {
+    background-color: rgb(0, 90, 117);
+    border: 1px solid black;
+    color: white;
+    
+}
+
+.cancel_btn {
+    background-color: rgb(0, 90, 117);
+    border: 1px solid black;
+    color: white;
+}
+.btns{
+    padding: 3px;
+    margin-left: 50px; 
+}
+.container4{
+    width:100%;
+    height:50px;    
+    background-color: rgb(0, 90, 117);
+    margin: auto;
+}

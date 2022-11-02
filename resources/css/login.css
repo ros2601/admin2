@@ -1,0 +1,220 @@
+/*........................page summary.................................*/
+
+.container3 {
+    width: 100%;
+    height: 600px;
+}
+
+.subcontainer3 {
+    width: 300px;
+    height: 600px;
+    margin: auto;
+}
+
+
+/*CSS FOR left section*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.maincontainer {
+    width: 1000px;
+    margin: auto;
+    height: 600px;
+}
+
+.innerconatiner {
+    width: 1000px;
+    margin: auto;
+    height: 600px;
+}
+
+.left-section {
+    width: 25%;
+    height: 600px;
+    float: left;
+}
+
+.left {
+    height: 330px;
+    float: left;
+    border: 1px solid black;
+    width: 225px;
+}
+
+.content1 h3 {
+    text-decoration: none;
+    padding-top: 15px;
+    padding-left: 8px;
+}
+
+.content1 p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-weight: bold;
+}
+
+.content1 h3 a {
+    text-decoration: none;
+    border-bottom: none;
+    color: rgb(0, 90, 117);
+}
+
+.content1 p a {
+    text-decoration: none;
+    border-bottom: none;
+    color: black;
+}
+
+.right-section {
+    height: 600px;
+    width: 70%;
+    height: 600px;
+    float: left;
+    padding: 10px;
+}
+
+.right {
+    height: 600px;
+    width: 100%;
+    height: 600px;
+    float: left;
+}
+
+.heading {
+    color: rgb(0, 90, 117);
+    margin: 15px;
+}
+
+.heading h2 {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.addpage {
+    border: 1px solid black;
+}
+
+.addpage p {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.addpage table {
+    width: 96%;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+}
+
+.addpage table tr td {
+    border-bottom: 1px solid grey;
+    padding: 6px;
+}
+
+.t1 {
+    text-align: right;
+    width: 30%;
+}
+
+.btns {
+    padding: 5px;
+    padding-left: 25%;
+}
+
+.btns input {
+    background-color: rgb(0, 90, 117);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 15px;
+}
+
+.btns input:hover {
+    background-color: rgb(8, 76, 97);
+}
+
+
+/*for pagesummary or display page */
+
+.right p {
+    padding-bottom: 6px;
+    font-size: 18px;
+}
+
+.link1 {
+    text-align: center;
+    font-size: 15px;
+    padding: 8px;
+}
+
+.sea {
+    border: 1px solid grey;
+    padding: 9px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: rgb(182, 176, 176);
+}
+
+.sea-table {
+    border: 1px solid grey;
+    padding: 6px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sea-table button {
+    background-color: rgb(0, 90, 117);
+    color: aliceblue;
+    border: none;
+    padding: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 10px;
+}
+
+.sea-table input {
+    padding: 2px;
+}
+
+.table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table table th {
+    text-align: center;
+    padding: 5px;
+    font-size: 18 px;
+}
+
+.table table td {
+    text-align: center;
+    padding: 5px;
+}
+
+
+/*........................page summary ends.................................*/
+
+.addpage table tr td {
+    padding: 5px;
+}
+
+
+/*........................page summary ends.................................*/
+
+.table table tr td {
+    padding: 5px;
+}
+
+.product table tr td {
+    padding: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
